@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is DA48-559A
+
+ Directory of C:\Users\shahril\Desktop\GitTutorial
+
+27/01/2021  11:04 PM    <DIR>          .
+27/01/2021  11:04 PM    <DIR>          ..
+27/01/2021  11:04 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  243,801,051,136 bytes free
